@@ -10,8 +10,8 @@ Error handling, CLI interface w/ menus.
 Choose one: Web Scraping, MatPlotlib, Advanced API, File processing, Text analysis, Task scheduling, Text-based
 
 
-**Project scope: create a database for community healthcenters to add or update data about the population and the social determinants of health (SDOH) so organizations can make data-driven decisions.
-**
+**Project scope: create a database for community healthcenters to add or update data about the population and the social determinants of health (SDOH) so organizations can make data-driven decisions.**
+
 ---------------------------------------------------------------------------------------------
 
 1) Database.py: This file handles database setup and connection logic. It uses SQLite to create a database that stores city-level demographic and SDOH data, ensuring the schema exists before the application runs.
