@@ -1,5 +1,5 @@
-Ana Carolina Santos Araujo 
-Bunker Hill Community College 
+Ana Araujo | 
+Bunker Hill Community College | 
 Fall 2025
 
 Python Final Project, due Dec 16th 
